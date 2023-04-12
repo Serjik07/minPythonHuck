@@ -1,0 +1,7 @@
+{
+    "editor.cursorBlinking": "expand",
+    "editor.hideCursorInOverviewRuler": false,
+    "editor.multiCursorPaste": "spread",
+    "editor.multiCursorLimit": 10000,
+    "editor.multiCursorMergeOverlapping": true
+}
